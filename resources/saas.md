@@ -1,2 +1,2 @@
-* Platforms (PaaS)
-  * http://parse.com/
+## Platforms (PaaS)
+* http://parse.com/
