@@ -1,2 +1,2 @@
 * [JS Modules](http://jsmodules.io/)
-* http://exercism.io/
+* [Exercism](http://exercism.io/)
